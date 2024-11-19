@@ -160,7 +160,7 @@ const About = () => {
                 </div>
             </div>
             <div><h1 className="second-head fromtop-anim">Project Admin</h1>
-                <a href="https://github.com/ShwetKhatri2001"><div className="about-admin-box fade-effect"><img className="about-admin-img" src="https://avatars.githubusercontent.com/u/56475750?v=4" /><p className="about-admin">Shwet Khatri</p></div></a></div>
+                <a href="https://github.com/Manit2xx2/"><div className="about-admin-box fade-effect"><img className="about-admin-img" src="https://drive.google.com/file/d/1oN96f3Cj0xdLKgjSQZ15iYIGfT1mbdGE/view?usp=sharing" /><p className="about-admin">Manit Paliwal</p></div></a></div>
             <div><h1 className="second-head fromtop-anim" style={{ "marginTop": "13vh" }}>Contributors</h1>
                 <p className="second-head fromtop-anim" style={{ "color": "blue" }}><b>Credits go to these contributors:</b></p>
                 <ContributorSection />
